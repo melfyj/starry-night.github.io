@@ -3,8 +3,6 @@
 	--ff-secondary: 'Source Sans Pro', sans-serif;
 
 	--fs-h1: 64px;
-	--fs-h2: 34px;
-	--fs-h3: 20px;
 
 	--fw-reg: 200;
 	--fw-bold: 900;
@@ -14,10 +12,6 @@
 	--clr-grey: #f2f2f2;
 }
 
-h2,h3,body{
-	color: var(--clr-cream);
-	line-height: 1.1;
-}
 
 h1{
     position: relative;
@@ -28,15 +22,3 @@ h1{
     background: none;
     color: var(--clr-light);
 }
-
-h2{
-	font-family: var(--ff-secondary);
-	font-size: var(--fs-h2);
-	font-weight: var(--fw-reg);
-}
-body{
-    font-family: var(--ff-primary);
-    font-size: var(--fs-h3);
-    
-}
-
