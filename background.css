@@ -26,15 +26,15 @@
   }
 
   .star-1 {
-    margin-top: 10%;
-    margin-left: 70%;
+    margin-top: 6%;
+    margin-left: 20%;
     animation-duration: 1s;
     animation-name: twinkle;
   }
 
   .star-2 {
-    margin-top: 6%;
-    margin-left: 20%;
+    margin-top: 10%;
+    margin-left: 70%;
     animation-duration: 0.9s;
     animation-name: twinkle;
   }
